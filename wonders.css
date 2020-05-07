@@ -1,0 +1,46 @@
+.one{
+  background-image: url("https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2018/07/Amazing-Facts-About-Taj-Mahal.jpg");
+
+    background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color: #f4f4f4;
+}
+.Taj{
+  text-align: center;
+  font-size: 40px;
+}
+.top1{
+  font-size: 72px;
+  background: linear-gradient(#9aceff, #617be3);
+  font-family: 'Righteous', cursive;
+  padding: 100px;
+}
+p{
+  padding: 100px;
+  font-family: 'Acme', sans-serif;
+  color: black;
+}
+.two{
+  background-image: url("https://thumbs-prod.si-cdn.com/E0Lm_ZfhHbqapE5Amhv-aiu8XYA=/1072x720/filters:no_upscale():focal(1471x1061:1472x1062)/https://public-media.si-cdn.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg");
+
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: 'Acme', sans-serif;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+}
+ul{
+  text-align: center;
+}
+.Facts{
+  padding-top: 100px;
+}
+.top2{
+  font-size: 72px;
+
+  font-family: 'Righteous', cursive;
+  padding: 100px;
+}
